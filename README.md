@@ -1,2 +1,1 @@
-# prj-colorlight-fpga
-Collection of resources on the Colorlight FPGA boards
+https://github.com/TomKeddie/prj-colorlight-fpga/wiki
